@@ -1,0 +1,89 @@
+body
+{
+    background: rgb(232, 229, 185);
+    background-size: cover;
+   text-align : center;
+}
+
+canvas
+{
+border: 2px solid black;
+}
+
+#dl
+{
+    float:right;
+    right : 30px;
+    position : absolute;
+    color: rgb(38, 0, 255);
+    background-color : rgb(255,248,220);
+    border: 1.99px solid black;
+}
+
+h1
+{
+    color: rgb(38, 0, 255);
+    position : absolute;
+    left : 476px;
+}
+
+#sketch_name
+{
+    color : blue;
+    background-color : rgb(255,248,220);
+    position : absolute;
+    top : 95px;
+    left : 600px;
+}
+#clear 
+{
+  width : 60px;
+  height : 20px;
+  font-size : 12px;
+  position : absolute;
+  top: 70px;
+  left: 160px;
+  color: rgb(38, 0, 255);
+  font-weight: 700;
+  background-color : rgb(255,248,220);
+  border: 1.99px solid black;
+}
+
+#score
+{
+  width : 260px;
+  height : 20px;
+  font-size : 12px;
+  position : absolute;
+  top: 70px;
+  left: 560px;
+  color: rgb(38, 0, 255);
+  font-weight: 700;
+  background-color : rgb(255,248,220);
+  border: 1.99px solid black;
+}
+
+p1
+{
+color:rgb(38, 0, 255);
+font-weight: 700;
+border: 1.99px solid black;
+width : 500px;
+height : 20px;
+position : absolute;
+top: 130px;
+left: 450px;
+}
+
+p2
+{
+color:rgb(38, 0, 255);
+font-weight: 700;
+border: 1.99px solid black;
+width : 500px;
+height : 20px;  position : absolute;
+top: 155px;
+left: 450px;
+}
+
+
